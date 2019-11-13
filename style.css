@@ -1,0 +1,36 @@
+#app {
+  display: grid;
+  height: 300px;
+}
+
+#header, #footer {
+  background-color: #9BCE1D;
+}
+
+#header {
+  
+}
+
+#footer {
+  
+}
+
+#main {
+  background-color: #F7F5D8
+}
+
+#article-1 {
+  background-color: lightcoral;
+}
+
+#article-2 {
+  background-color: violet;
+}
+
+#nav {
+  background-color: cornflowerblue;
+}
+
+#ad-area {
+  background-color: cornflowerblue;
+}
